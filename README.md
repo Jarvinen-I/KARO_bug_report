@@ -1,1 +1,1 @@
-# KARO_bug_report
+Импорт баг-репорта из Jira
